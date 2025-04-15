@@ -1,6 +1,6 @@
 ### Olá! Eu sou Noemi
 
-- 🔭 Atualmente sou graduanda de Sistemas de Informação pela Unifacisa e Estagiária na Stefanini.
+- 🔭 Atualmente sou graduada de Sistemas de Informação pela Unifacisa e Desenvolvedora Pleno de Software na Stefanini.
 - 😄 Pronouns: ela/dela.
 
 <div align="center">
